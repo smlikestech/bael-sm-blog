@@ -1,9 +1,9 @@
 ---
-title: Welcome to Sm likes Technology Blog, a free Nuxt / NetlifyCMS powered blog template
-date: Tuesday February 13th, 2018
+title: Welcome to Sm likes Technology Blog
+date: Friday November 13th, 2020
 thumbnail: /images/uploads/bael-big.jpg
 ---
-**Bael is a free template that gives you an easy way to start a blog that uses modern technologies like static-site JAMstack architecture, CSS grid layout, responsive design, a serverless function that handles emails newsletter signup with Sendgrid, and fuzzy search — all wrapped up in a brutalist aesthetic.**
+**This is my hello world blog, using Netlify.**
 
 Bael runs using [Nuxt.js](https://nuxtjs.org), [Vue.js](https://vuejs.org), [Netlify CMS](https://netlifycms.org), and is hosted by [Netlify](https://netlify.com). Bael requires an account with Netlify and Github/Gitlab to deploy. A free Sendgrid account and API key is needed to setup the email newsletter signup.
 
