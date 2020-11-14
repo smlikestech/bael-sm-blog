@@ -1,5 +1,5 @@
 ---
-title: Welcome to Bael, a free Nuxt / NetlifyCMS powered blog template
+title: Welcome to Sm likes Technology Blog, a free Nuxt / NetlifyCMS powered blog template
 date: Tuesday February 13th, 2018
 thumbnail: /images/uploads/bael-big.jpg
 ---
